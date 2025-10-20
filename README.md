@@ -1,7 +1,9 @@
-🎬 Netflix Original Films & IMDb Scores - EDA
+## 🎬 Netflix Original Films & IMDb Scores - EDA
+
 This project provides an in-depth Exploratory Data Analysis (EDA) of Netflix Original Films and their corresponding IMDb scores. The analysis aims to uncover trends, popular genres, language distributions, and the relationship between runtime and IMDb ratings for Netflix's original content.
 
-🌟 Project Overview
+## 🌟 Project Overview
+
 This project focuses on analyzing a dataset of Netflix original films, documentaries, and specials released as of June 1st, 2021. The primary goals include:
 
 Understanding Content Landscape: Examining the distribution of films by genre, language, and release year.
@@ -10,7 +12,8 @@ Performance Analysis: Investigating the relationship between film attributes (ru
 
 Visualization: Creating insightful visualizations to present key findings.
 
-📊 Dataset
+##📊 Dataset
+
 The dataset was web-scraped from a Wikipedia page and integrated with IMDb scores. It is available on Kaggle.
 
 The dataset consists of the following attributes:
@@ -27,7 +30,8 @@ IMDB Score: The IMDb rating of the film, based on community reviews.
 
 Language: The primary language(s) in which the film was created.
 
-🚀 Analysis Questions
+## 🚀 Analysis Questions
+
 This Colab notebook addresses a variety of analytical questions, including:
 
 Language of Long-Running Films: Identifying the languages of films with longer runtimes and visualizing the distribution.
@@ -60,7 +64,8 @@ Most Used Genre per Language: Identifying the most prevalent genre for each lang
 
 Outlier Data Detection: Analyzing the dataset for any outlier data and providing explanations.
 
-🛠️ Technologies & Libraries
+## 🛠️ Technologies & Libraries
+
 Python: The primary programming language for data analysis.
 
 Jupyter Notebook / Google Colab: For interactive development, code execution, and documentation.
@@ -73,7 +78,7 @@ Seaborn: For statistical data visualization, building on Matplotlib.
 
 Plotly Express: For creating interactive and visually appealing plots.
 
-💡 How to Run
+## 💡 How to Run
 To explore this analysis:
 
 Access the Notebook: Open the Netflix_Originals.ipynb notebook in Google Colab or a local Jupyter environment.
